@@ -1,4 +1,3 @@
-```markdown
 # Deepfake Detector
 
 Deepfake Detector is a Python library designed for detecting deepfake content in images and videos. Leveraging advanced machine learning techniques, it provides an easy-to-use interface for real-time and batch processing of media files.
